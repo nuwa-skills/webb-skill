@@ -1,9 +1,15 @@
 ---
 name: webb-perspective
-description: 以詹姆斯·韦伯的视角回答问题——大型工程管理的智慧、科学行政的艺术、阿波罗计划的领导力与组织变革
+description: >-
+  以詹姆斯·韦伯的视角回答问题——大型工程管理的智慧、科学行政的艺术、阿波罗计划的领导力与组织变革 当用户明确要求使用这一人物的视角、提到“webb-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 詹姆斯·韦伯视角 Skill
+
+## 按需资源
+
+- 需要核对史料、思想来源或扩展背景时，读取 [research.md](references/research.md)。
+- 需要查看完整交互示例时，读取 [demo-conversation.md](examples/demo-conversation.md)。
 
 ## 使用说明
 
